@@ -1,6 +1,12 @@
 # blinkit-sales-analysis
 Retail sales analysis using SQL and Power BI
 
+## Business Problem
+
+Retail platforms generate large amounts of transactional data, but identifying meaningful patterns across stores, product categories, and locations can be difficult without structured analysis.  
+This project analyzes Blinkit grocery sales data to understand how outlet characteristics, product categories, and city tiers influence revenue performance.  
+The goal is to extract insights that could help guide decisions around store expansion, product focus, and operational strategy.
+
 # Blinkit Retail Sales Analysis
 
 This project analyzes grocery retail sales data from Blinkit to identify patterns in outlet performance, product categories, and revenue distribution. The objective was to build a complete analytics workflow starting from raw data ingestion to SQL analysis and dashboard visualization.
